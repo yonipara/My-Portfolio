@@ -1,0 +1,5 @@
+Jess 1.1
+New added: sidebar light
+New added: sidebar dark
+update: form dark style
+update: footer dark color
